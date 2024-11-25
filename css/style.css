@@ -286,7 +286,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-blog,
 #fh5co-pricing,
 #fh5co-contact {
-  padding: 7em 0;
+  padding: 2.4em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
@@ -298,7 +298,7 @@ h1, h2, h3, h4, h5, h6, figure {
   #fh5co-blog,
   #fh5co-pricing,
   #fh5co-contact {
-    padding: 3em 0;
+    padding: 2.4em 0;
   }
 }
 
@@ -587,7 +587,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .company {
   display: block;
   margin-bottom: 20px;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: normal;
   color: #bfbfbf;
 }
@@ -755,8 +755,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   .work .desc {
-    opacity: 1;
-    background: rgba(255, 255, 255, 0.6);
+    /* opacity: 1; */
+    /* background: rgba(255, 255, 255, 0.6); */
+    
   }
   .work .desc h3 {
     -webkit-transform: translate3d(0, 0, 0);
