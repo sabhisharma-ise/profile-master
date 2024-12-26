@@ -586,9 +586,14 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .company {
   display: block;
-  margin-bottom: 20px;
-  font-size: 16px;
-  font-weight: normal;
+  /* margin-bottom: 20px; */
+  margin-top: -20px;
+  font-size: 19px;
+  font-weight: bold;
+  color: #a19f9f;
+}
+
+.time-period {
   color: #bfbfbf;
 }
 
